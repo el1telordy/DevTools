@@ -1,6 +1,6 @@
-Hello
+Getting started
 ====
-Hi!
+Welcome to the git zone
 
 What is it?
 ====
