@@ -1,4 +1,4 @@
-How to install Android 12 dp
+How to install Android 12 Developer Preview
 =====
 - Enable dev feature
 - Enable USB Debugging
