@@ -1,0 +1,3 @@
+[submodule "ClimPi"]
+	path = ClimPi
+	url = https://github.com/el1telordy/ClimPi
