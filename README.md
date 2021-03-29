@@ -2,5 +2,6 @@ Hello
 ====
 Hi!
 
-What is it
-lab2
+What is it?
+====
+It's repo for the second lab
